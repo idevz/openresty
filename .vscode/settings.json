@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "memory": "c",
+        "ngx_http_lua_api.h": "c"
+    }
+}
